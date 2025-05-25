@@ -93,11 +93,12 @@ SoapWebserviceProjekt/
 ________________________________________
 ## 📫 Kontakt
 
-Fragen oder Feedback?  
+Fragen oder Feedback  
 **Doniman F. Peña Parra**
 
-- 🌐 [GPT-Link zur Projektunterstützung](https://chatgpt.com/g/g-67f9029e82fc819188dd714659be51ae-html-manager)
+- 🌐 [GPT-Link zur Projektunterstützung]([https://chatgpt.com/g/g-67f9029e82fc819188dd714659be51ae-html-manager](https://chatgpt.com/g/g-67f2ec205b0c819181790826b6abdad6-tutor-fur-betriebliche-informationssysteme))
 - 🔗 [LinkedIn](https://www.linkedin.com/in/doniman-francisco-pe%C3%B1a-parra-609263232/)
 - ✉️ E-Mail: [dofp79@hotmail.com](mailto:dofp79@hotmail.com)
 ________________________________________
+
 
