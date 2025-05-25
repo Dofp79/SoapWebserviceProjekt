@@ -88,3 +88,16 @@ SoapWebserviceProjekt/
 ├── .vscode/                         # VS Code spezifische Einstellungen
 ├── README.md                        # Diese Datei
 └── .gitignore                       # Ausschlussregeln für Git
+
+...
+________________________________________
+## 📫 Kontakt
+
+Fragen oder Feedback?  
+**Doniman F. Peña Parra**
+
+- 🌐 [GPT-Link zur Projektunterstützung](https://chatgpt.com/g/g-67f9029e82fc819188dd714659be51ae-html-manager)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/doniman-francisco-pe%C3%B1a-parra-609263232/)
+- ✉️ E-Mail: [dofp79@hotmail.com](mailto:dofp79@hotmail.com)
+________________________________________
+
