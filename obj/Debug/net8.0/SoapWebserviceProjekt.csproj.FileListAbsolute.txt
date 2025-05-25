@@ -1,0 +1,14 @@
+E:\SoapWebserviceProjekt\bin\Debug\net8.0\SoapWebserviceProjekt.exe
+E:\SoapWebserviceProjekt\bin\Debug\net8.0\SoapWebserviceProjekt.deps.json
+E:\SoapWebserviceProjekt\bin\Debug\net8.0\SoapWebserviceProjekt.runtimeconfig.json
+E:\SoapWebserviceProjekt\bin\Debug\net8.0\SoapWebserviceProjekt.dll
+E:\SoapWebserviceProjekt\bin\Debug\net8.0\SoapWebserviceProjekt.pdb
+E:\SoapWebserviceProjekt\obj\Debug\net8.0\SoapWebserviceProjekt.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoapWebserviceProjekt\obj\Debug\net8.0\SoapWebserviceProjekt.AssemblyInfoInputs.cache
+E:\SoapWebserviceProjekt\obj\Debug\net8.0\SoapWebserviceProjekt.AssemblyInfo.cs
+E:\SoapWebserviceProjekt\obj\Debug\net8.0\SoapWebserviceProjekt.csproj.CoreCompileInputs.cache
+E:\SoapWebserviceProjekt\obj\Debug\net8.0\SoapWebserviceProjekt.dll
+E:\SoapWebserviceProjekt\obj\Debug\net8.0\refint\SoapWebserviceProjekt.dll
+E:\SoapWebserviceProjekt\obj\Debug\net8.0\SoapWebserviceProjekt.pdb
+E:\SoapWebserviceProjekt\obj\Debug\net8.0\SoapWebserviceProjekt.genruntimeconfig.cache
+E:\SoapWebserviceProjekt\obj\Debug\net8.0\ref\SoapWebserviceProjekt.dll

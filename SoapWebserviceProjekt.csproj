@@ -1,0 +1,26 @@
+<!-- 
+  ===================================================================================
+  Einsendeaufgabe 4.4 (Webservices)
+  Modul: Betriebliche Informationssysteme
+  Autor: Doniman Francisco Peña Parra
+  Erstellungsdatum: 25. Mai 2025
+  Sprache: C# / XML-Projektdatei (.NET 8.0)
+  Beschreibung:
+       Dieses Projektfile definiert eine einfache .NET-Konsolenanwendung.
+       Es wird das .NET SDK genutzt, das Ziel-Framework ist .NET 8.0.
+  ===================================================================================
+-->
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Das Projekt verwendet das offizielle .NET SDK für Konsolen- oder Bibliotheksprojekte -->
+
+  <PropertyGroup>
+    <!-- Gibt an, dass beim Build eine ausführbare Datei (EXE) erzeugt wird -->
+    <OutputType>Exe</OutputType>
+
+    <!-- Ziel-Framework für die Anwendung: .NET 8.0 -->
+    <!-- Wurde von net6.0 auf net8.0 aktualisiert für moderne Features -->
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

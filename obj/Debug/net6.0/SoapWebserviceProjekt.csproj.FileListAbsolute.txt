@@ -1,0 +1,4 @@
+E:\SoapWebserviceProjekt\obj\Debug\net6.0\SoapWebserviceProjekt.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoapWebserviceProjekt\obj\Debug\net6.0\SoapWebserviceProjekt.AssemblyInfoInputs.cache
+E:\SoapWebserviceProjekt\obj\Debug\net6.0\SoapWebserviceProjekt.AssemblyInfo.cs
+E:\SoapWebserviceProjekt\obj\Debug\net6.0\SoapWebserviceProjekt.csproj.CoreCompileInputs.cache
