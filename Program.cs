@@ -8,7 +8,7 @@
 //      Dieses Programm simuliert einen einfachen SOAP-ähnlichen Webservice.
 //      Es verarbeitet eine XML-Anfrage, erstellt daraus ein Angebot und 
 //      gibt anschließend eine Auftragsbestätigung zurück.
-// ===================================================================================
+// =================================================================================== 
 
 using System; // Importiert die Systembibliothek für Konsolen- und Basisfunktionen
 
