@@ -7,7 +7,7 @@ Ziel dieses Projekts ist es, dem Auszubildenden/Studierenden ein fundiertes Vers
 
 ---
 
-## 📌 Thema & Projektziel
+## Thema & Projektziel
 
 **Thema:**  
 „SOAP Webservice zur Angebotserstellung und Auftragsverarbeitung mit C# und .NET“
@@ -25,7 +25,7 @@ Durch das Projekt lernt der Teilnehmende:
 
 ---
 
-## 🎯 Lernziele
+## Lernziele
 
 ### Richtlernziel
 Der Teilnehmer kann einen SOAP Webservice in C# entwickeln, strukturieren und mit typischen Methoden (z. B. Angebot berechnen) ausstatten.
@@ -42,7 +42,7 @@ Der Teilnehmer kann einen SOAP Webservice in C# entwickeln, strukturieren und mi
 
 ---
 
-## ❓ Didaktische Fragen
+## Didaktische Fragen
 
 ### Offene Fragen
 - „Was unterscheidet SOAP von REST?“  
@@ -56,7 +56,7 @@ Der Teilnehmer kann einen SOAP Webservice in C# entwickeln, strukturieren und mi
 
 ---
 
-## 🧰 Arbeitsmittel
+## Arbeitsmittel
 
 - Visual Studio Code / .NET SDK 8
 - Projektdateien inkl. `.csproj`, `.sln`, `Webservice.cs`
@@ -65,7 +65,7 @@ Der Teilnehmer kann einen SOAP Webservice in C# entwickeln, strukturieren und mi
 
 ---
 
-## ✅ Erfolgskontrolle
+## Erfolgskontrolle
 
 Der Teilnehmer:
 
