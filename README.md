@@ -97,7 +97,7 @@ SoapWebserviceProjekt/
 Fragen oder Feedback?  
 **Doniman F. Peña Parra**
 
-- 🌐 [GPT-Link zur Projektunterstützung](https://chatgpt.com/g/g-67f2ec205b0c819181790826b6abdad6-tutor-fur-betriebliche-informationssysteme)
+- 🌐 [GPT-Link zur Projektunterstützung: Tutor für betriebliche Informationssysteme](https://chatgpt.com/g/g-67f2ec205b0c819181790826b6abdad6-tutor-fur-betriebliche-informationssysteme)
 - 🌐 [GPT-Link zur Projektunterstützung: Technische und pädagogische Anleitung zu objektorientierten Programmierkonzepten mit Java.](https://chatgpt.com/g/g-gHoshJs8N-oop)
 - 🔗 [LinkedIn-Profil ansehen](https://www.linkedin.com/in/doniman-francisco-pe%C3%B1a-parra-609263232/)
 - 📧 E-Mail: [dofp79@hotmail.com](mailto:dofp79@hotmail.com)
