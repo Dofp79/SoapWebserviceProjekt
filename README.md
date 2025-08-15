@@ -1,4 +1,4 @@
-## 🔷 SOAP Webservice Projekt – Angebotserstellung und Auftragsverarbeitung in C# (.NET) 🔷
+## SOAP Webservice Projekt – Angebotserstellung und Auftragsverarbeitung in C# (.NET)
 
 Willkommen zum **SOAP Webservice Projekt im Rahmen der Einsendeaufgabe 4.4** des Moduls *Betriebliche Informationssysteme*!  
 Dieses Repository enthält ein vollständiges Beispiel für einen SOAP-basierten Webservice, implementiert in **C# mit .NET 8.0**.
